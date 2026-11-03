@@ -1,0 +1,20 @@
+# --- analyse-stock skill ---
+.env
+.env.*
+credentials/
+*service-account*.json
+*-credentials.json
+token.json
+.kiro/
+*.pdf
+node_modules/
+dist/
+test-results/
+playwright-report/
+.venv/
+__pycache__/
+.DS_Store
+planning.md
+.cursorignore
+skill-idea.md
+skill-creation-plan.md
